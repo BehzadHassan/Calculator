@@ -1,4 +1,4 @@
-# Calculator Application
+# Python Calculator Application
 
 This Calculator Application is a simple and professional-looking calculator application built using Python and PyQt6. This calculator supports basic arithmetic operations, square, square root, percentage calculations, and more. The user interface is styled with a custom CSS file to provide a clean and modern look.
 
@@ -21,8 +21,8 @@ This Calculator Application is a simple and professional-looking calculator appl
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BX28-Calculator.git
-cd BX28-Calculator
+git clone https://github.com/BehzadHassan/Python-Calculator-Application.git
+cd Python-Calculator-Application
 ```
 
 ## Install Dependencies
