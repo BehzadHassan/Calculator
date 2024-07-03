@@ -1,6 +1,6 @@
-# BX28 Calculator
+# Calculator Application
 
-BX28 Calculator is a simple and professional-looking calculator application built using Python and PyQt6. This calculator supports basic arithmetic operations, square, square root, percentage calculations, and more. The user interface is styled with a custom CSS file to provide a clean and modern look.
+This Calculator Application is a simple and professional-looking calculator application built using Python and PyQt6. This calculator supports basic arithmetic operations, square, square root, percentage calculations, and more. The user interface is styled with a custom CSS file to provide a clean and modern look.
 
 ## Features
 
