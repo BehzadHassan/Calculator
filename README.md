@@ -25,12 +25,12 @@ git clone https://github.com/your-username/BX28-Calculator.git
 cd BX28-Calculator
 ```
 
-##Install Dependencies
+## Install Dependencies
 ```bash
 pip install PyQt6
 ```
 
-##Usage
+## Usage
 
 - Place the main.py, evaluater.py, style.css, and the icon image (icon.png) in the same directory.
 
@@ -40,7 +40,7 @@ pip install PyQt6
   python Main.py
   ```
 
-##Project Structure
+## Project Structure
 ```bash
 BX28-Calculator/
 ├── Main.py              # Main application file
@@ -51,5 +51,5 @@ BX28-Calculator/
 
 ```
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements or bug fixes.
