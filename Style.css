@@ -1,0 +1,81 @@
+/* General styling for the main window */
+QWidget {
+    background-color: #C0C0C0; /* Silver color */
+}
+
+/* Styling for the display */
+QLineEdit {
+    font-family: 'Cambria Math';
+    height: 50px;
+    font-size: 28px;
+    padding: 10px;
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Styling for all buttons */
+QPushButton {
+    font-size: 22px;
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+/* Styling for number buttons */
+QPushButton#num {
+    border: 2px solid #ffffff;
+    background-color: #ffffff; /* White color */
+    color: #000000; /* Black text */
+}
+
+/* Styling for operator buttons */
+QPushButton#op {
+    border: 2px solid #2e2e2e;
+    background-color: #2e2e2e; /* Matte black color */
+    color: #ffffff; /* White text */
+}
+
+/* Styling for the equals button */
+QPushButton#equals {
+    border: 2px solid #3894d9;
+    background-color: #3894d9; /* Green color */
+    color: #ffffff;
+}
+
+/* Styling for the clear button */
+QPushButton#clear {
+    border: 2px solid #f44336;
+    background-color: #f44336; /* Red color */
+    color: #ffffff;
+}
+
+/* Styling for the backspace button */
+QPushButton#backspace {
+    background-color: #f4ce36; /* Red color */
+    color: #ffffff;
+    border: 2px solid #f4ce36;
+}
+
+/* Hover effects for buttons */
+QPushButton#num:hover {
+    background-color: #e0e0e0;
+}
+
+QPushButton#op:hover {
+    background-color: #000000;
+}
+
+QPushButton#equals:hover {
+    background-color: #2b86c7;
+}
+
+QPushButton#clear:hover {
+    background-color: #e53935;
+}
+
+QPushButton#backspace:hover {
+    background-color: #d5b03f;
+}
