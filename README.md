@@ -9,7 +9,6 @@ This Calculator Application is a simple and professional-looking calculator appl
 - Percentage calculations
 - Clear and backspace functionality
 - Professional UI with custom CSS styling
-- Company header display
 
 ## Installation
 
@@ -32,7 +31,7 @@ pip install PyQt6
 
 ## Usage
 
-- Place the main.py, evaluater.py, style.css, and the icon image (icon.png) in the same directory.
+- Place the main.py, evaluater.py, style.css, and the icon image (calculator-48.png) in the same directory.
 
 - Run the calculator application using the following command:
 
